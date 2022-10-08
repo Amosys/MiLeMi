@@ -11,10 +11,9 @@
 │   ├── symbol.js                          // ES6 Symbol简易兼容
 │   └── weapp-adapter.js                   // 小游戏适配器
 ├── npc
-│   └── enemy.js                           // 敌机类
-├── player
-│   ├── bullet.js                          // 子弹类
-│   └── index.js                           // 玩家类
+│   └── box.js                             // 盒子类
+│   └── layer.js                           // 层类
+│   └── slot.js                            // 槽类
 ├── runtime
 │   ├── background.js                      // 背景类
 │   ├── gameinfo.js                        // 用于展示分数和结算界面
