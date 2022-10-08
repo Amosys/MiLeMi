@@ -1,0 +1,32 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enhance": true
+  },
+  "compileType": "game",
+  "libVersion": "2.26.0",
+  "appid": "wx22892760c0a91880",
+  "projectname": "quickstart",
+  "condition": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "staticServerOptions": {
+    "servePath": "static"
+  }
+}
